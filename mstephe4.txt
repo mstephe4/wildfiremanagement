@@ -1,0 +1,7 @@
+Title:  Wildfire Ignitions Project
+
+Name:  Mimi Stephens
+
+Synopsis:  This tool will be able to convert a csv file for import into ArcGIS Pro for further processing. The edited csv file is reformatted to remove invalid headers, rows, and characters. Once formatted, a user specified field is used to separate the file into individual shapefiles corresponding to unique field values. These shapefiles are then uploaded to a geodatabase, added to the map, and an image of is exported to an HTML file. The HTML file contains the final map image and a table listing data from the fields used to create the shapefiles. For this project, a csv file containing wildfire ignitions was provided from the National Park Service.
+
+Keywords:  National Parks Service, wildfire management, fire ignitions, Wildland Federal Agency, wildfire ignitions, GIS540, csv conversion 
